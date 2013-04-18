@@ -1,3 +1,7 @@
+2013-04-18
+==========
+* (Mark Windholtz) Updated init.rb to remove deprecation warnings
+
 2009-02-11
 ==========
 * Merge in xlash's bugfix for PostgreSQL and his has\_karma patch for multi-model support. 
